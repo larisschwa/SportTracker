@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SportTracker</string>
+    <string name="widget_description">Displays your next upcoming hockey game</string>
+</resources>
